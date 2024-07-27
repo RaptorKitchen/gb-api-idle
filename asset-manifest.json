@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/gb-api-idle/static/css/main.f855e6bc.css",
-    "main.js": "/gb-api-idle/static/js/main.ad2e3799.js",
+    "main.js": "/gb-api-idle/static/js/main.650211a2.js",
     "static/js/453.c798c8d1.chunk.js": "/gb-api-idle/static/js/453.c798c8d1.chunk.js",
     "static/media/logo.svg": "/gb-api-idle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/gb-api-idle/index.html",
     "main.f855e6bc.css.map": "/gb-api-idle/static/css/main.f855e6bc.css.map",
-    "main.ad2e3799.js.map": "/gb-api-idle/static/js/main.ad2e3799.js.map",
+    "main.650211a2.js.map": "/gb-api-idle/static/js/main.650211a2.js.map",
     "453.c798c8d1.chunk.js.map": "/gb-api-idle/static/js/453.c798c8d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.ad2e3799.js"
+    "static/js/main.650211a2.js"
   ]
 }
